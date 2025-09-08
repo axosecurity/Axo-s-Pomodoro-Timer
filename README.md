@@ -60,22 +60,3 @@ python3 timer_app.py 1
 
 ---
 
-📱 Android Version
-🔧 Requirements
-
-Linux system with Buildozer
-
-Cython, Git, Java JDK, Android SDK & NDK
-
-Install build tools (Ubuntu/Debian example):
-
-
-```bash
-sudo apt-get install -y python3-pip python3-setuptools git zip unzip \
-openjdk-17-jdk zlib1g-dev libncurses5-dev libstdc++6 libffi-dev \
-libssl-dev automake autoconf libtool pkg-config cmake
-pip3 install --user buildozer cython
-
-
-
----
